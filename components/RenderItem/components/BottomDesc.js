@@ -67,10 +67,10 @@ const styles = StyleSheet.create({
         marginTop: 100,
         marginBottom: 70,
         width: '50%',
-        height: 50,
+        height: 45,
         alignSelf: 'center',
         backgroundColor: 'rgb(239, 235, 244)',
-        borderRadius: 10,
+        borderRadius: 8,
         flexDirection: 'row',
         justifyContent: 'center',
         alignItems: 'center'

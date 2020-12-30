@@ -17,7 +17,7 @@ export const FloatingActions = ({ item, scrollY }) => {
     
     return (
         <Animated.View style={[styles.container, { transform: [{ translateY }] }]}>
-            <BottomActions item={item} bgColor="rgb(215, 215, 215)" />
+            <BottomActions item={item} bgColor="rgb(225, 225, 225)" />
         </Animated.View>
     )
 }
